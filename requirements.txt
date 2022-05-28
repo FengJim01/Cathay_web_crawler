@@ -1,0 +1,7 @@
+pyspark==3.2.1
+beautifulsoup4<=4.11.1
+requests<=2.27.1
+selenium<=4.2.0
+Flask<=2.1.2
+numpy
+pandas<=1.4.0
